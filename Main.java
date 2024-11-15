@@ -34,7 +34,7 @@ public class Main {
             this.PORT = port;
             this.USERNAME = username;
             this.PASSWORD = password;
-            this.init();
+            
 
         }
 
