@@ -103,13 +103,13 @@ public class Main {
         private void task5(BufferedReader reader,PrintWriter writer)throws IOException {}
     }
     public static void main(String[] args) {
-        //Client s31827=new Client(IPADRESS,PORT,USERNAME);
+        //Client client=new Client(IPADRESS,PORT,USERNAME);
 
 
-        //Client s31827=new Client(IPADRESS,PORT,USERNAME,PASSWORD);
+        //Client client=new Client(IPADRESS,PORT,USERNAME,PASSWORD);
 
 
-        //s31827.run();
+        //client.run();
 
     }
 
